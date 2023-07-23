@@ -1,0 +1,28 @@
+.header {
+    background-color:#102138;
+    flex-wrap: wrap;
+}
+
+.logo-nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.Compant-name-logo {
+    display: flex;
+    padding: 10px 10px 10px 40px;
+    align-items: center;
+}
+
+.company-name{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.logo {
+    width: auto ;
+    height: 30px;
+    border-radius: 20%;
+}

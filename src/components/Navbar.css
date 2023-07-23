@@ -1,0 +1,22 @@
+.nav-list {
+    list-style: none;
+    background-color:#102138;
+  }
+
+.list-item {
+    display: inline-block;
+    margin: 10px;
+    font-size: 1.3em;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+    gap: 10px;
+  }
+
+  .menu-nav{
+    background-color: rgb(26, 26, 26);
+    width: 100%;
+    padding: 5px;
+    list-style: none;
+}
+
